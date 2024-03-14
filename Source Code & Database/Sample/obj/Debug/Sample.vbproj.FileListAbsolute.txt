@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\obj\Debug\Sample.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\obj\Debug\Sample.MainForm.resources
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\obj\Debug\Sample.Resources.resources
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\obj\Debug\Sample.vbproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\obj\Debug\Sample.xml
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\bin\Debug\Sample.xml
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\obj\Debug\Sample.Details.resources
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\obj\Debug\Sample.Form1.resources
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\lenovo\Desktop\C# Programs\Sample\Sample\obj\Debug\Sample.FrmLoader.resources
